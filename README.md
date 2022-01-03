@@ -41,7 +41,7 @@ Once you're satisfied with your data model, take a picture, a screenshot or expo
 
 The project comes with a boilerplate, _nearly_ already configured. (Eslint and Prettier)
 
-n the project directory, you can run different scripts:
+In the project directory, you can run different scripts:
 
 - `npm run dev` : Runs the app in the development mode using `nodemon` on port 8000 by default. You can change it by creating a `PORT` variable in your `.env` file. (You should create this file)
 - `npm start`: Runs the app in production mode. This will **not re-start when you write your code !**
@@ -53,7 +53,7 @@ n the project directory, you can run different scripts:
 
 **In this step, you will create an API that allows you to manage songs and albums using Node/Express**
 
-_Please please, don't forget to make atomic commits with explicit messages_ :pray:
+_Please, don't forget to make atomic commits with explicit messages_ :pray:
 
 Here is the database schema you need to create beforehand.  
 You can use either SQL database you like (MySQL, SQLite, Postgresql), but cannot use noSQL (MongoDB for example).
